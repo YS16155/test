@@ -8,4 +8,4 @@
 
 ![説明文](reiwa.jpg  "ポップアップ文字")
 
- [リンクの文字](https://www.hakodate-ct.ac.jp/) 
+ [函館高専](https://www.hakodate-ct.ac.jp/) 
